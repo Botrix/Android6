@@ -1,1 +1,1 @@
-include ':app', ':welcome'
+include ':welcome', ':tipcalculator'
