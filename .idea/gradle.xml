@@ -9,7 +9,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/flagquiz" />
             <option value="$PROJECT_DIR$/tipcalculator" />
+            <option value="$PROJECT_DIR$/weatherviewer" />
             <option value="$PROJECT_DIR$/welcome" />
           </set>
         </option>

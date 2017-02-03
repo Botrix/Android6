@@ -1,1 +1,1 @@
-include ':welcome', ':tipcalculator'
+include ':welcome', ':tipcalculator', ':flagquiz', ':weatherviewer'
