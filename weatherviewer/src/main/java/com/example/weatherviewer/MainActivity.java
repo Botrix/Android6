@@ -93,12 +93,12 @@ public class MainActivity extends AppCompatActivity {
      * makes the REST web service call to get weather data and saves the data to a local HTML file
      * <p>
      * URL        for the variable-length parameter-list type of AsyncTask’s doInBackground
-     * method ——— the URL of the web service request is passed as the only
+     *            method ——— the URL of the web service request is passed as the only
      * argument to the GetWeatherTask’s execute method.
      * Void       for the variable-length parameter-list type for the onProgressUpdate
-     * method ——— we do not use this method
+     *            method ——— we do not use this method
      * JSONObject for the type of the task’s result, which is passed to onPostExecute
-     * in the UI thread to display the results.
+     *            in the UI thread to display the results.
      */
     private class GetWeatherTask extends AsyncTask<URL, Void, JSONObject> {
         @TargetApi(Build.VERSION_CODES.KITKAT)

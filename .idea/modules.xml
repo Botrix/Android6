@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Android6.iml" filepath="$PROJECT_DIR$/Android6.iml" />
       <module fileurl="file://$PROJECT_DIR$/flagquiz/flagquiz.iml" filepath="$PROJECT_DIR$/flagquiz/flagquiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipcalculator/tipcalculator.iml" filepath="$PROJECT_DIR$/tipcalculator/tipcalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twittersearches/twittersearches.iml" filepath="$PROJECT_DIR$/twittersearches/twittersearches.iml" />
       <module fileurl="file://$PROJECT_DIR$/weatherviewer/weatherviewer.iml" filepath="$PROJECT_DIR$/weatherviewer/weatherviewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/welcome/welcome.iml" filepath="$PROJECT_DIR$/welcome/welcome.iml" />
     </modules>
